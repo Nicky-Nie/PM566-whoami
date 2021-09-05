@@ -60,7 +60,7 @@ repository.
 - NJY530
 
 - Nicky-Nie
-[**@Nicky-Nie**](https://github.com/Nicky-Nie) Hello,I'm Nicky Nie, my program is ms in biostatistics. I love games and painting =w=
+[**@Nicky-Nie**](https://github.com/Nicky-Nie) Hello～I'm Nicky Nie, my program is ms in biostatistics. I love games and painting =w=
 
 - jasmineslike
 
